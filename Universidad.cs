@@ -23,6 +23,22 @@ namespace AttendanceUni
                 TotalSesiones = totalSesiones;
                 SesionesAsistidas = sesionesAsistidas;
             }
-        }
+
+            // Clase interna para manejar las asistencias
+            public class Asistencia
+            {
+                // Método para calcular el porcentaje de asistencia
+                public static double CalcularPorcentaje(int sesionesAsistidas, int totalSesiones)
+                {
+                    return (double)sesionesAsistidas / totalSesiones * 100;
+                }
+
+                // Método para verificar si el porcentaje cumple con el mínimo de 75%
+                public static bool CumpleAsistencia(double porcentaje)
+                {
+                    return porcentaje >= 75;
+                }
+            }
+        }    
     }
 }
