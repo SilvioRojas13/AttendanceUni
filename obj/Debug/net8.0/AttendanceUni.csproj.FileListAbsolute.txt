@@ -1,0 +1,15 @@
+C:\Users\Wesley\Desktop\AttendanceUni\bin\Debug\net8.0\AttendanceUni.exe
+C:\Users\Wesley\Desktop\AttendanceUni\bin\Debug\net8.0\AttendanceUni.deps.json
+C:\Users\Wesley\Desktop\AttendanceUni\bin\Debug\net8.0\AttendanceUni.runtimeconfig.json
+C:\Users\Wesley\Desktop\AttendanceUni\bin\Debug\net8.0\AttendanceUni.dll
+C:\Users\Wesley\Desktop\AttendanceUni\bin\Debug\net8.0\AttendanceUni.pdb
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.sourcelink.json
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.dll
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\refint\AttendanceUni.dll
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.pdb
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\AttendanceUni.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\AttendanceUni\obj\Debug\net8.0\ref\AttendanceUni.dll
