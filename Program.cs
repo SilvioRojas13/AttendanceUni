@@ -5,7 +5,7 @@ bool usarDatosPrecargados = false;
 
 // Usar datos precargados o ingresarlos manualmente
 Console.WriteLine("¿Desea usar datos precargados? (S/N): ");
-string opcion = Console.ReadLine().Trim().ToUpper();
+string opcion = Console.ReadLine();
 
 if (opcion == "S")
 {
